@@ -23,7 +23,7 @@ body{
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.8)), url("./assets/main\ \(2\).jpg");
+    background-image: linear-gradient(rgba(255, 255, 255, 0), rgba(0, 0, 0, 0.8)), url("./assets/main1.jpg");
 }
 
 .header_text{
