@@ -115,6 +115,7 @@ a:hover{
 }
 
 .about, .qualification{
+    text-align: center;
     padding: 30px 10%;
     background-color:rgb(6, 73, 73);
 }
